@@ -1,0 +1,23 @@
+.bookList {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.container1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.eachBook {
+  width: 150px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.search {
+  width: 30vw;
+}
